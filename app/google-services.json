@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "452832990478",
+    "firebase_url": "https://carparking-80faf.firebaseio.com",
+    "project_id": "carparking-80faf",
+    "storage_bucket": "carparking-80faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452832990478:android:9947b8af81439b5b",
+        "android_client_info": {
+          "package_name": "com.example.manis_000.carparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452832990478-1sce4kj6t1l0tac9m04i5vm12k7rtc4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manis_000.carparking",
+            "certificate_hash": "616fb9bac58d72e275aad7ce5a67108f931d44f1"
+          }
+        },
+        {
+          "client_id": "452832990478-j3rvhammhcfoi5ee6b63oop663h60d3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCph71vStgXGwch5gXDG09HjofpkGlouGE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452832990478-j3rvhammhcfoi5ee6b63oop663h60d3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
